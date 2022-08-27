@@ -3,3 +3,6 @@
 
 2. Multiplication of 2*3
 6
+
+3. Multiplication of 3*4
+12
